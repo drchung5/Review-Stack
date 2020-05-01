@@ -1,0 +1,16 @@
+insert into review (review_text, rating, restaurant_id) values('Meat! Need I say more?', 5, 1);
+insert into review (review_text, rating, restaurant_id) values('Are you serious? I am vegan!', 5, 1);
+insert into review (review_text, rating, restaurant_id) values('Fresh, authentic and creative. The Blowfish is to die for!', 5, 5);
+insert into review (review_text, rating, restaurant_id) values('A review', 3, 4);
+insert into review (review_text, rating, restaurant_id) values('A review', 3, 7);
+insert into review (review_text, rating, restaurant_id) values('A review', 4, 8);
+insert into review (review_text, rating, restaurant_id) values('A review', 5, 9);
+insert into review (review_text, rating, restaurant_id) values('A review', 2, 10);
+insert into review (review_text, rating, restaurant_id) values('A review', 3, 11);
+insert into review (review_text, rating, restaurant_id) values('A review', 3, 12);
+insert into review (review_text, rating, restaurant_id) values('A review', 5, 7);
+insert into review (review_text, rating, restaurant_id) values('A review', 3, 8);
+insert into review (review_text, rating, restaurant_id) values('A review', 1, 9);
+insert into review (review_text, rating, restaurant_id) values('A review', 2, 10);
+insert into review (review_text, rating, restaurant_id) values('A review', 3, 11);
+insert into review (review_text, rating, restaurant_id) values('A review', 3, 12);
